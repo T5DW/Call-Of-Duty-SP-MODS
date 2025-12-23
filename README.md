@@ -20,4 +20,4 @@ T9SP Mod (BOCW Latest Bnet Version)
 Latest Steam Version For Most of them besides T7MP Mod And T5SP Mod And IW4SP Mod
 
 
-MOD Is Stil In Development So Beware of Updates 
+MOD Is Still In Development So Beware of Updates 
