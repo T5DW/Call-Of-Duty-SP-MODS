@@ -14,6 +14,7 @@ Mods in development:
 T7SP Mod (BO3)
 T7MP Mod (BO3 Beta)
 T9SP Mod (BOCW Latest Bnet Version)
+Iw3SP Mod (COD 4)
 
 
 
