@@ -8,13 +8,12 @@ to Play Any Of the Mods Use the Launcher (BETA LAUNCHER)
 Available Mods:
 T5SP Mod (BO1)
 IW4SP Mod (MW2)
-
+Iw3SP Mod (COD 4)
 
 Mods in development:
 T7SP Mod (BO3)
 T7MP Mod (BO3 Beta)
 T9SP Mod (BOCW Latest Bnet Version)
-Iw3SP Mod (COD 4)
 
 
 
