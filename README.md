@@ -9,6 +9,7 @@ Available Mods:
 T5SP Mod (BO1)
 IW4SP Mod (MW2)
 Iw3SP Mod (COD 4)
+WaW Mod (Cod WAW)
 
 Mods in development:
 T7SP Mod (BO3)
@@ -17,7 +18,7 @@ T9SP Mod (BOCW Latest Bnet Version)
 
 
 
-Latest Steam Version For Most of them besides T7MP Mod And T5SP Mod And IW4SP Mod
+Latest Steam Version For Most of them besides T7MP Mod And T5SP Mod And IW4SP Mod 
 
 
 MOD Is Still In Development So Beware of Updates 
