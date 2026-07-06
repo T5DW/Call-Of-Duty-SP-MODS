@@ -1,24 +1,4 @@
-# Call-Of-Duty-SP-MODS
-All the Call of duty SP MODS + the Launcher 
+# Call-Of-Duty-SP-MODS deprecated
 
-
-to Play Any Of the Mods Use the Launcher (BETA LAUNCHER)
-
-
-Available Mods:
-T5SP Mod (BO1)
-IW4SP Mod (MW2)
-Iw3SP Mod (COD 4)
-WaW Mod (Cod WAW)
-
-Mods in development:
-T7SP Mod (BO3)
-T7MP Mod (BO3 Beta)
-T9SP Mod (BOCW Latest Bnet Version)
-
-
-
-Latest Steam Version For Most of them besides T7MP Mod And T5SP Mod And IW4SP Mod 
-
-
-MOD Is Still In Development So Beware of Updates 
+these mod are out of date and will not be updated any time soon
+if you want to play one of the mods i am working on rn head over to: https://github.com/T5DW/T7MP-MOD this is the main mod im working on! Head over to the discord for updates: https://discord.gg/xRvfUeFvrd
